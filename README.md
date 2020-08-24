@@ -1,7 +1,7 @@
 # gustavocastrow
 
-<p align="center">
-  <img src="https://i.ibb.co/fY5M2ZL/Screen-Shot-2020-08-23-at-8-52-50-PM.png" alt="Screen-Shot-2020-08-23-at-8-52-50-PM" border="0" width="100">
+<p align="left">
+  <img src="https://i.ibb.co/TbnBLvD/Screen-Shot-2020-08-23-at-8-52-50-PM-removebg-preview.png"" alt="Screen-Shot-2020-08-23-at-8-52-50-PM" border="0" width="100">
 </p>
 
 Olá, eu sou o ###Gustavo 🙋🏻‍♂️
