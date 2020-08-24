@@ -5,12 +5,12 @@
 
 Olá, eu sou o **Gustavo**!
 
-🚧  Migrando da área de gestão de projetos para **desenvolvimento**.
+🚧  - Migrando da área de gestão de projetos para **desenvolvimento**.
 
-👨🏻‍ 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (_ETEP - SJC_)**.
+👨🏻‍🎓 - Graduado em **Análise e Desenvolvimento de Sistemas (_ETEP - SJC_)**.
 
-🎓  Cursando **Banco de Dados (_FATEC - SJC_)**.
+🎓 - Cursando **Banco de Dados (_FATEC - SJC_)**.
 
-📚  Estudando **JavaScript** e apanhando do **CSS**.
+📚 - Estudando **JavaScript** e apanhando do **CSS**.
 
-👨🏻‍ 💻 Aluno da turma **LaunchBase**.
+💻 - Aluno da turma **LaunchBase**.
