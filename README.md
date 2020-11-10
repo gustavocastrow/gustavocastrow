@@ -11,6 +11,8 @@ Olá, eu sou o **Gustavo**!
 
 🎓 - Cursando **Banco de Dados (_FATEC - SJC_)**.
 
-📚 - Estudando **JavaScript** e apanhando do **CSS**.
+💻- Aluno da turma **LaunchBase** e **GoStack**
 
-💻 - Aluno da turma **LaunchBase** e **GoStack**
+📚 - Atualmente Estudando **Python**, **JavaScript**, **SQL/NOSQL**, **React JS** 
+
+
