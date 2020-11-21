@@ -15,4 +15,6 @@ Olá, eu sou o **Gustavo**!
 
 📚 - Atualmente Estudando **Python**, **JavaScript**, **SQL/NOSQL**, **React JS** 
 
+Apaixonado por Javascript, React e NodeJS 💛💜💚
+
 
