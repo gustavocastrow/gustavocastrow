@@ -13,7 +13,7 @@ Olá, eu sou o **Gustavo**!
 
 💻- Aluno da turma **LaunchBase** e **GoStack**
 
-📚 - Atualmente Estudando **Python**, **JavaScript**, **SQL/NOSQL**, **React JS** 
+📚 - Atualmente Estudando **JavaScript**, **SQL/NOSQL**, **React JS**, **React Native** e **Node JS**
 
 Apaixonado por Javascript, React e NodeJS 💛💜💚
 
