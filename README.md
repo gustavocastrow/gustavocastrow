@@ -3,17 +3,13 @@
   <img src="https://i.ibb.co/cNwc1x7/aaaaa1.png" alt="Screen-Shot-2020-08-23-at-8-52-50-PM" border="0" width="100">
 </p>
 
-Olá, eu sou o **Gustavo**!
+Hi, my name is **Gustavo**!
 
-🚧  - Migrando da área de gestão de projetos para **desenvolvimento**.
+👨🏻‍💻 - Data Analytics Intern
 
-👨🏻‍🎓 - Graduado em **Análise e Desenvolvimento de Sistemas (_ETEP - SJC_)**.
+👨🏻‍🎓 - Graduated in **System Analysis and Development** (Etep - 2019).
 
-🎓 - Cursando **Banco de Dados (_FATEC - SJC_)**.
+🎓 - Currently on my second degree now in **DataBase** (Fatec)
 
-💻- Aluno da turma **LaunchBase** e **GoStack**
-
-📚 - Atualmente Estudando **JavaScript**, **SQL/NOSQL**, **CSS** e **Python**
-
-
+📚 - Learning **Python**, **SQL**, **NoSQL**
 
