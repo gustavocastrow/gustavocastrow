@@ -5,7 +5,7 @@
 
 Hi, my name is **Gustavo**!
 
-👨🏻‍💻 - Data Analytics Intern
+👨🏻‍💻 - Data Science Intern
 
 👨🏻‍🎓 - Graduated in **System Analysis and Development** (Etep - 2019).
 
