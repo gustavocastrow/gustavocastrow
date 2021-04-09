@@ -11,5 +11,5 @@ Hi, my name is **Gustavo**!
 
 🎓 - Currently on my second degree now in **DataBase** (Fatec)
 
-📚 - Learning **Python**, **SQL** and **NodeJS** 
+📚 - Learning **Python**, **SQL**, **Machine Learning** and **NodeJS** 
 
