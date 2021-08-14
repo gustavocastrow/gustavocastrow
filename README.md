@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/cNwc1x7/aaaaa1.png" alt="Screen-Shot-2020-08-23-at-8-52-50-PM" border="0" width="100">
 </p>
 
-Hi, I'm **Gustavo**!
+Hi, my name is **Gustavo**!
 
 👨🏻‍💻 - Data Science Intern
 
@@ -11,5 +11,8 @@ Hi, I'm **Gustavo**!
 
 🎓 - Currently on my second degree now in **DataBase** (Fatec)
 
-📚 - Learning **Python**, **SQL**, **Machine Learning**, **Javascript**, **NodeJS** and **ReactJS**
+📚 - Learning  **NodeJS** , **ReactJS**,  **Python**, **SQL** and **NoSQL**
+
+💛 - JS Lover 
+
 
