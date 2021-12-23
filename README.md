@@ -1,13 +1,13 @@
 
 Hi, my name is **Gustavo**!
 
-👨🏻‍💻 - Data Science Intern working with **Python** and **Machine Learning**
+👨🏻‍💻 - Data Analyst working with **Python**, **Machine Learning** and **SQLServer**
 
 👨🏻‍🎓 - Graduated in **System Analysis and Development** (Etep - 2019).
 
 🎓 - Currently on my second degree now in **DataBase** (Fatec)
 
-📚 - Learning  **Angular** , **NodeJS**,  **Python**, **SQLServer** and **MySQL**
+📚 - Learning  **Machine Learning** , **Python**,  **SQLServer**, **NodeJS** and **ReactJS**
 
 💛 - JS Lover 
 
