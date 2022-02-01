@@ -7,7 +7,7 @@ Hi, my name is **Gustavo**!
 
 🎓 - Currently on my second degree now in **DataBase** (Fatec)
 
-📚 - Learning  **Machine Learning** , **Python**,  **SQLServer**, **NodeJS** and **ReactJS**
+📚 - Learning  **Machine Learning** , **Python**,  **SQLServer**, **NodeJS** and **Angular**
 
 💛 - JS Lover 
 
