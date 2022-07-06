@@ -7,6 +7,8 @@
 
 👨🏻‍🎓  Associates Degree: **System Analysis and Development** (Etep - 2019).
 
+🌎 Languages: Portuguese(Native), English(Advanced) and French (Intermediate)
+
 
 ## 📫 How to reach me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/gustavocastrow)](https://github.com/gustavocastrow)
