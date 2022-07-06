@@ -1,14 +1,12 @@
 
 Hi, my name is **Gustavo**!
 
-👨🏻‍💻 - Data Analyst working with **Python**, **Machine Learning** and **SQLServer**
+👨🏻‍💻 Currently working as: Fullstack Developer.
 
-👨🏻‍🎓 - Graduated in **System Analysis and Development** (Etep - 2019).
+⚙️ Languages, Frameworks and Tools: **Angular**, **Javascript**, **Typescript**, **Python**, **Django**, **DRF**, **NodeJS**. 
 
-🎓 - Currently on my second degree now in **DataBase** (Fatec)
+👨🏻‍🎓 Graduated in **System Analysis and Development** (Etep - 2019).
 
-📚 - Learning  **Machine Learning** , **Python**,  **SQLServer**, **NodeJS** and **Angular**
 
-💛 - JS Lover 
 
 
