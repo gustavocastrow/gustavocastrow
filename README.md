@@ -14,6 +14,9 @@
   * DRF
   * NodeJS
   * Docker
+  * HTML
+  * CSS
+  * Git
 
 
 
