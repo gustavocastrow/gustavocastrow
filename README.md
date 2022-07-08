@@ -3,11 +3,24 @@
 
 👨🏻‍💻  Currently working as: **Fullstack Developer**.
 
-⚙️  Languages, Frameworks and Tools: **Angular**, **Javascript**, **Typescript**, **Python**, **Django**, **DRF**, **NodeJS** and **Docker** 
-
 👨🏻‍🎓  Associates Degree: **System Analysis and Development** (Etep - 2019).
 
-🌎 Languages: Portuguese(Native), English(Advanced) and French (Intermediate)
+⚙️  Languages, Frameworks and Tools: 
+  * Angular
+  * Javascript
+  * Typescript 
+  * Python
+  * Django
+  * DRF
+  * NodeJS
+  * Docker
+
+
+
+🌎 Languages: 
+   * Portuguese(Native) 
+   * English(Advanced)
+   * French(Intermediate)
 
 
 ## 📫 How to reach me
