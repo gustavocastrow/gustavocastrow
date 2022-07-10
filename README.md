@@ -21,9 +21,9 @@
 
 
 🌎 Languages: 
-   * Portuguese(Native) 
-   * English(Advanced)
-   * French(Intermediate)
+   * Portuguese (Native) 
+   * English (Advanced)
+   * French (Intermediate)
 
 
 ## 📫 How to reach me
