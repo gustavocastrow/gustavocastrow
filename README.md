@@ -7,6 +7,7 @@
 
 ⚙️  Languages, Frameworks and Tools: 
   * Angular
+  * ReactJS
   * Javascript
   * Typescript 
   * Python
