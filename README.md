@@ -11,21 +11,16 @@
   * Javascript
   * Typescript 
   * Python
-  * Django
-  * DRF
+  * Django DRF
   * NodeJS
-  * Docker
   * HTML
   * CSS
   * Git
-
-
 
 🌎 Languages: 
    * Portuguese (Native) 
    * English (Advanced)
    * French (Intermediate)
-
 
 ## 📫 How to reach me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/gustavocastrow)](https://github.com/gustavocastrow)
