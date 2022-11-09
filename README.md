@@ -7,12 +7,12 @@
 
 ⚙️  Languages, Frameworks and Tools: 
   * Angular
+  * Java
+  * Spring Boot
   * ReactJS
   * Javascript
   * Typescript 
   * Python
-  * Django DRF
-  * NodeJS
   * HTML
   * CSS
   * Git
