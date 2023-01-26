@@ -6,6 +6,8 @@
 👨🏻‍🎓  Associates Degree: **System Analysis and Development**.
 
 ⚙️  Languages, Frameworks and Tools: 
+
+  * React
   * Angular
   * Java
   * Spring Boot
