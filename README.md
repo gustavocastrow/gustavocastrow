@@ -9,9 +9,9 @@
 
   * React
   * Angular
+  * NodeJS
   * Java
   * Spring Boot
-  * ReactJS
   * Javascript
   * Typescript 
   * Python
