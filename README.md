@@ -1,7 +1,7 @@
 
 ### Hi, I'm **Gustavo**!
 
-👨🏻‍💻  Currently working as: **Fullstack Developer**.
+👨🏻‍💻  Currently working as: **Fullstack Developer** with React, Java, Spring and NodeJS
 
 👨🏻‍🎓  Associates Degree: **System Analysis and Development**.
 
