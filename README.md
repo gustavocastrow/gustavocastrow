@@ -4,6 +4,7 @@
 I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and <b>Data Scientist</b>, and I have also worked in <b>IT project management</b> area with <b>Agile methodologies</b>.</p>
 <hr/>
 
+
  #### 📫 How to reach me:<br/>
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocastrow/)](https://www.linkedin.com/in/gustavocastrow/)
@@ -37,7 +38,7 @@ I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and
 
 #### 📊 Github stats:
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocastrow&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocastrow&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gustavocastrow&theme=react&hide_border=false)<br/>
 
 
