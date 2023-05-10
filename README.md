@@ -1,7 +1,7 @@
 
 ### ⚡️ Hi, I'm **Gustavo**!
 <p>I currently work as a <b>Fullstack Developer</b> using <b>React</b>, <b>NodeJS</b>, <b>Java</b>, and <b>Spring Boot</b>.<br/> 
-I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and <b>Data Scientist</b>, and I have also worked in <b>IT project management</b> area with <b>Agile methodologies</b>.</p>
+I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and <b>Data Scientist</b> working with <b>Python</b>, <b>Forecasting with Machine Learning Models</b>, <b>PowerBI</b> and <b>SQLServer</b>,  and I have also worked in <b>IT project management</b> area with <b>Agile methodologies</b>.</p>
 <hr/>
 
 
