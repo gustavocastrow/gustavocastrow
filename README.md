@@ -31,7 +31,7 @@ I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and
    
 #### 🌎 Languages: <br/>
    * 🇧🇷 Portuguese (Native) 
-   * 🇺🇸 English (Advanced)
+   * 🇺🇸 English (Fluent)
    * 🇫🇷 French (Intermediate)
 
 
