@@ -1,7 +1,9 @@
 
 ### ⚡️ Hi, I'm **Gustavo**!
-<p>I currently work as a <b>Java Fullstack Developer</b> using <b>Java</b>, <b>Spring</b>, <b>Angular</b>, <b>PostgreSQL</b>.<br/> 
-I have also worked in the <b>Data Science</b> area  as a <b>Data Analyst</b> and <b>Data Scientist</b> working with <b>Python</b>, <b>Forecasting with Machine Learning Models</b>, <b>PowerBI</b> and <b>SQLServer</b>,  and I have also worked in <b>IT project management</b> area with <b>Agile methodologies</b>.</p>
+<p>Acting as a Fullstack Java Developer, I have utilized technologies such as Java, Spring Boot, Angular, JavaScript, TypeScript, Git, and PostgreSQL. Subsequently, I gained one year of experience as a Fullstack Developer, working with React, Angular, JavaScript, TypeScript, NodeJS, Java, Spring Boot, Rest APIs, Git, and PostgreSQL. During this period, I actively participated in project development, implementation of improvements, and bug fixes.
+Prior to that, for a year and six months, I worked in the Data Science field, focusing on projects related to forecasting with Machine Learning. I used Python and its specialized Machine Learning libraries, as well as worked on data extraction via SQL Server and the creation of dashboards via Power BI, implementing algorithms in Python.
+Following that, I dedicated two years to the IT Project Management field, playing roles as Project Manager and Scrum Master. I utilized agile methodologies throughout the project lifecycle.
+I am fluent in English, enabling me to engage in conversations, write, and comprehend texts. Additionally, I have intermediate knowledge in French.</b>.</p>
 <hr/>
 
 
