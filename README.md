@@ -1,9 +1,10 @@
 
 ### ⚡️ Hi, I'm **Gustavo**!
-<p>Acting as a Fullstack Java Developer, I have utilized technologies such as Java, Spring Boot, Angular, JavaScript, TypeScript, Git, and PostgreSQL. Subsequently, I gained one year of experience as a Fullstack Developer, working with React, Angular, JavaScript, TypeScript, NodeJS, Java, Spring Boot, Rest APIs, Git, and PostgreSQL. During this period, I actively participated in project development, implementation of improvements, and bug fixes.
-Prior to that, for a year and six months, I worked in the Data Science field, focusing on projects related to forecasting with Machine Learning. I used Python and its specialized Machine Learning libraries, as well as worked on data extraction via SQL Server and the creation of dashboards via Power BI, implementing algorithms in Python.
-Following that, I dedicated two years to the IT Project Management field, playing roles as Project Manager and Scrum Master. I utilized agile methodologies throughout the project lifecycle.
-I am fluent in English, enabling me to engage in conversations, write, and comprehend texts. Additionally, I have intermediate knowledge in French.</b>.</p>
+<p>Results-oriented Senior Software Engineer with a strong foundation in developing scalable, cloud-native applications using Java, Quarkus, and AWS. Proven expertise in designing and implementing microservice architectures, RESTful APIs, web services, and asynchronous integrations with Kafka and RabbitMQ, consistently applying SOLID principles, Clean Code, Clean Architecture, Test-Driven Development (TDD), CI/CD, and other established software engineering best practices to deliver high-quality solutions. Possesses a versatile background including Fullstack Development (Java/Spring, Angular/React, Node.js) and Data Science (Machine Learning, Python, SQL, Power BI).
+
+Holder of an MBA in Cloud Computing from XP Educação and a degree in Systems Analysis and Development from ETEP Faculdades. My career path demonstrates adaptability and a commitment to technical excellence, progressing from IT Project Management support and Data Analysis roles to sophisticated Software Engineering positions.
+
+Currently focused on building robust, distributed systems in the cloud, driving innovation for high-profile clients like B3 (Brazil's Stock Exchange). Passionate about software architecture, leveraging cutting-edge technologies, and continuous learning to solve complex challenges.</b>.</p>
 <hr/>
 
 
